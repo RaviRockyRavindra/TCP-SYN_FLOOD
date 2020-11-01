@@ -2,6 +2,10 @@
   <img src="https://github.com/RaviRockyRavindra/TCP-SYN_FLOOD/blob/main/Drawing.png" width="auto" title="TCP_SYN_FLOOD_RAVI_ROCKY_RAVINDRA">
 </p>
 
+<p align="center">
+  <img src="https://github.com/RaviRockyRavindra/TCP-SYN_FLOOD/blob/main/wireshark_tcp_FLOOD.png" width="auto" title="TCP_SYN_FLOOD_RAVI_ROCKY_RAVINDRA">
+</p>
+
 # TCP-SYN_FLOOD
 
 Passive attack which is a form of DENIAL OF SERVICE ATTACK where the attacker establishes the connection and becomes unavailable to finalize it. To describe in a more technical way in order to make data communication over TCP/IP the 3-way-handshake would take place in between client and server also foundation for every connection established using the TCP protocol. Attackers were taking advantage of performing the incomplete connection initiation. This bring the server to busy stage and no longer available to the clients for serving any more.
