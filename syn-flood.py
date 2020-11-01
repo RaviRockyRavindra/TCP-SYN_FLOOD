@@ -2,7 +2,7 @@
 # date 30/10/20
 # TCP syn-flood
 # education purpose
-# request dont perform this on any running sites unless requested by authorized user 
+# request dont perform this on any running sites unless requested by authorized user for pentration
 
 from scapy.all import *
 from scapy.layers.l2 import Ether
